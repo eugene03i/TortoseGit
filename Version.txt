@@ -2,4 +2,11 @@
 
 Clone§ó·s TEST
 
+<<<<<<< HEAD
 master TEST
+=======
+
+
+
+TEST branch UserB
+>>>>>>> UserB
